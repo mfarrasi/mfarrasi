@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Muhammad Farras Ilhami
+
+My name is Farras and I am a college student majoring in Information Engineering in Universitas Gadjah Mada. I am interested in learning about coding, UI/UX, etc. :)
+
+
 
 <!--
 **mfarrasi/mfarrasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
